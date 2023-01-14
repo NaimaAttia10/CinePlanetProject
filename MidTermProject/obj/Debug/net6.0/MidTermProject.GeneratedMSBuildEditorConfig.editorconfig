@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MidTermProject
+build_property.RootNamespace = MidTermProject
+build_property.ProjectDir = C:\Users\sofie\source\repos\MidTermProject\MidTermProject\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\sofie\source\repos\MidTermProject\MidTermProject
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Actor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Actor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Actor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Actor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Actor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Cinema/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2luZW1hXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Cinema/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2luZW1hXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Cinema/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2luZW1hXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Cinema/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2luZW1hXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Cinema/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2luZW1hXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Movies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Movies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Movies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Movies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Producer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Producer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Producer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Producer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Producer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Shared/_CreateItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DcmVhdGVJdGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/source/repos/MidTermProject/MidTermProject/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2l8kqis7jj
